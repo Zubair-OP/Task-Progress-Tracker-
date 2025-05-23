@@ -6,8 +6,6 @@ Task Progress Tracker is a clean, responsive web application designed to help us
 
 📈 Live, dynamic progress bar based on completed tasks
 
-🛑 Input validation to ensure all goals are filled before marking complete
-
 💬 Motivational feedback upon full completion
 
 📱 Fully responsive design for mobile, tablet, and desktop screens
